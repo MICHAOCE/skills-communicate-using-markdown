@@ -1,5 +1,5 @@
-# 这是'<h1>' header, 一级标题
+# This is an `<h1>` header, which is the largest
 
-## 这是'<h1>' header, 二级标题
+## This is an `<h2>` header
 
-### 这是'<h1>' header, 最小的标题
+###### This is an `<h6>` header, which is the smallest
